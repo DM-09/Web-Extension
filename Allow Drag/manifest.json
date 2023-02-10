@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "name": "Allow Drag",
+  "version": "1.0",
+
+  "description": "You can drag or copy any web site(모든 웹사이트에서 드래그 및 복사가 가능합니다.)",
+
+  "icons": {
+    "48": "icon-48.png"
+  },
+
+  "background": {
+    "scripts": ["spawn.js"]
+  },
+  
+  "permissions": [
+     "webRequest",
+	 "activeTab"
+  ],
+  
+	"browser_action": {
+	  "browser_style": true,
+	  "default_icon": {
+		"16": "icon-48.png",
+		"32": "icon-48.png"
+	  },
+	  "default_title": "Allow Drag",
+	  "theme_icons": [{
+		"light": "icon-48.png",
+		"dark": "icon-48.png",
+		"size": 16
+	  }, {
+		"light": "icon-48.png",
+		"dark": "icon-48.png",
+		"size": 32
+	  }]
+	}
+}
