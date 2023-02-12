@@ -1,4 +1,5 @@
 Create: 02/10/2023(KST)
 
-나중에 추가 예정
-to be added later
+I created Add on for the first time. I made it for fun, and it was my first time, so I made it with clone coding.
+
+처음으로 확장 프로그램을 만들어보았습니다. 재미로 만들어 봤으며 처음이어서 클론 코딩으로다가 만들었습니다.
