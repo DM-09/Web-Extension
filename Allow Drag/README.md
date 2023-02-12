@@ -6,4 +6,3 @@ You can drag or copy in any web site <br>
 - <a href='https://github.com/DM-09/Firefox-Extension/releases/tag/Allow-Drag'>File Download</a>
 ## Dev Note
 - <a href='https://github.com/DM-09/Firefox-Extension/blob/main/Dev-Note/AllowDrag.txt'>Dev-Note</a>
-<br>(아직 테스트 중. still testing)
