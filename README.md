@@ -5,3 +5,4 @@ My web extension<br>
 ## 
 <a href='https://addons.mozilla.org/en/firefox/user/17626890/'>🪪 My Profile</a>
 - <a href='https://github.com/DM-09/Firefox-Extension/tree/main/Allow%20Drag'>Allow Drag</a>
+- <a href='https://github.com/DM-09/Bing-AI-for-Any-browser'>Anywhere Bing AI</a>
