@@ -1,0 +1,13 @@
+{
+    "name": "Dark Bing Chat",
+    "version": "1.0",
+    "description": "You can use dark mode of bing chat. 다크모드 빙 챗을 사용할 수 있습니다.",
+    "icons": {
+       "48": "icon-48.png"
+    },
+	"permissions": [ "webNavigation", "https://*.bing.com/*" ],
+    "background": {
+        "scripts": ["Dark.js"]
+    },
+    "manifest_version": 2
+}
