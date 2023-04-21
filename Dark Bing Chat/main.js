@@ -8,3 +8,5 @@ Dark = setInterval(function() {
   }
   if (n != 0) { clearInterval(Dark) }
 }, 200);
+
+// https://github.com/happydm09/Page/blob/main/test/dark.js
